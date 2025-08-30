@@ -1,4 +1,4 @@
-# ClimateRiskScore
+# Climate Risk Score
 
 **Project Name** Climate Risk Score -- A Data-Driven Tool to Assess Climate Exposure to Public Companies
 
